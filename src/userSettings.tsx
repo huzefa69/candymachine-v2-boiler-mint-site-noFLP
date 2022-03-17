@@ -110,7 +110,7 @@ export const whitelistSettings: WhitelistSettings = {
   desc: undefined,
 
   //Enable Custom HTML Below
-  enableCustomHTML: false,
+  enableCustomHTML: true,
 };
 
 
